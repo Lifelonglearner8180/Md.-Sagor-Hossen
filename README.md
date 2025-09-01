@@ -1,4 +1,4 @@
-### Hi there 👋, Hello, I'm Md. Sagor Hossen
+### Hi there 👋, I'm Md. Sagor Hossen
 #### I am a junior frontend web developer
 ![I am a junior frontend web developer](https://pixabay.com/photos/software-developer-web-developer-6521720/)
 
